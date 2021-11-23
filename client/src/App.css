@@ -1,0 +1,21 @@
+*,*::after,*::before{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main-app{
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.l-main{
+  height: 80vh;
+  width: 100vw;
+}
+.footer{
+  height: 10vh;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}

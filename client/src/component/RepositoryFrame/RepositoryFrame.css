@@ -1,0 +1,11 @@
+.repository-wrapper{
+    border: 1px solid black;
+}
+.owner{
+    font-weight: bolder;
+    font-size: larger;
+}
+.repo{
+    font-weight: bolder;
+    color: blue;
+}
